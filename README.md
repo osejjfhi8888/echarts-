@@ -1,5 +1,11 @@
 # vision
 
+##文件说明
+```
+KOA_SERVER1为koa后端代码；
+前端代码拉取后执行 npm i 安装依赖
+```
+
 ## Project setup
 ```
 yarn install
